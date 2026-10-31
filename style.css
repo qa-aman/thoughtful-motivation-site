@@ -1,0 +1,8 @@
+body{margin:0;background:#0c0c0c;color:#eee;font:17px/1.6 Georgia,serif}
+main{max-width:640px;margin:0 auto;padding:56px 24px}
+h1{color:#e7be4b;font:italic 700 34px/1.2 Arial,sans-serif;margin:0 0 8px}
+h2{color:#e7be4b;font:700 20px Arial,sans-serif;margin-top:32px}
+a{color:#e7be4b}
+.quote{background:#f5f1e6;color:#111;padding:28px;margin:28px 0;font-size:22px;text-align:center}
+.hl{background:#ecf55a}
+footer{color:#777;font:14px Arial,sans-serif;margin-top:48px}
